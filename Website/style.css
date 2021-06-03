@@ -1,4 +1,5 @@
 html {
+    background-color: rgb(34, 34, 34);
     width: 960px;
     max-width: 90%;
     text-align: center;
@@ -28,7 +29,8 @@ nav {
 a {
     color: white;
     text-decoration: none;
-    font-family: SF Pro Display Black;
+    font-family: SF Pro Display Black, Helvetica, sans-serif;
+    font-weight: bolder;
     padding-left: 20px;
     transition: ease-in-out all 100ms;
 }
@@ -37,15 +39,18 @@ a:hover {
 }
 h2 {
     text-align: left;
+    color: white;
 }
 p {
     text-align: left;
     padding-left: 20px;
     padding-right: 20px;
-    border-left: solid black 3px;
+    border-left: solid rgb(255, 255, 255) 3px;
+    color: white;
 }
 h3 {
     text-align: left;
+    color: white;
 }
 ul {
     padding-left: 0px;
@@ -53,7 +58,8 @@ ul {
 button {
     background-color: #FF3442;
     color: white;
-    font-family: SF Pro Display black, Helvetica, sans-serif;
+    font-family: SF Pro Display Black, Helvetica, sans-serif;
+    font-weight: bolder;
     font-size: larger;
     border-radius: 7px;
     padding: 10px 10px;
@@ -75,4 +81,5 @@ hr {
 }
 h1 {
     margin-bottom: 0px;
+    color: white;
 }
