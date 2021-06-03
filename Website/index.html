@@ -6,16 +6,28 @@
     <meta charset="utf-8">
     <link href="style.css" type="text/css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <style>
+        .download,.downloadimg {
+            display: unset;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: auto;
+            margin-top: auto;
+            padding: 0 12px;
+            align-items: center;
+            height: 100%;
+        }
+    </style>
 </head>
 
 <body>
     <img src="Rechner-Icon.png" alt="Logo" width="100px" height="100px">
+    <h1>Durchschnittsrechner</h1>
     <nav>
         <a href="index.html">HOME</a>
         <a href="https://www.github.com/glifede/durchschnittsrechner">GITHUB</a>
         <a href="https://www.github.com/glifede/durchschnittsrechner/releases/latest/download/durchschnittsrechner.exe">DOWNLOAD</a>
     </nav>
-    <h1>Durchschnittsrechner</h1>
     <h2>Was ist der Durchschnittsrechner?</h2>
     <p>Das ist ein kleines Tool, um seinen Notendurchschnitt/Zeugnisschnitt berechnen zu lassen. Dieses funktioniert in
         der Windows Eingabeaufforderung (CMD) und das ermöglicht es, die Noten sehr schnell einzutragen!
@@ -30,7 +42,7 @@
     </ul>
     <h3>Funktionsweise</h3>
     <ul>
-        <p>It also supports the english language!
+        <p>Du kannst auswählen, welche Art von Rechner du verwenden möchtest
         </p>
         <p>Du wirst gefragt, wie viele Hauptfächer miteinbezogen werden sollen
         </p>
@@ -41,7 +53,11 @@
         <p>Gib deine Hauptfachnoten und danach deine Nebenfachnoten ein
         </p>
     </ul>
-    <button onclick="location.href='https://www.github.com/glifede/durchschnittsrechner/releases/latest/download/durchschnittsrechner.exe'">DOWNLOAD</button>
+    <hr>
+    <button onclick="location.href='https://www.github.com/glifede/durchschnittsrechner/releases/latest/download/durchschnittsrechner.exe'">
+    <span class="download">DOWNLOAD</span>
+    <span><img class="downloadimg" src="download.svg"></span>
+    </button>
 </body>
 
 </html>
