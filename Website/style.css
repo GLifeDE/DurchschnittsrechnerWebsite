@@ -1,0 +1,59 @@
+html {
+    width: 960px;
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    font-family: SF Pro Display, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+nav {
+    margin-top: 30px;
+    border: solid black 4px;
+    padding: 2px 10px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-family: SF Pro Display Black;
+    padding-left: 20px;
+    transition: ease-in-out all 100ms;
+}
+a:hover {
+    color: red;
+}
+h2 {
+    text-align: left;
+}
+p {
+    text-align: left;
+    padding-left: 20px;
+    border-left: solid black 3px;
+}
+h3 {
+    text-align: left;
+}
+ul {
+    padding-left: 0px;
+}
+button {
+    background-color: #CE0610;
+    color: white;
+    font-family: SF Pro Display black, Helvetica, sans-serif;
+    font-size: larger;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-color: white;
+    cursor: pointer;
+
+    transition: ease-in-out all 100ms;
+}
+button:hover {
+    background-color: #b61921;
+}
