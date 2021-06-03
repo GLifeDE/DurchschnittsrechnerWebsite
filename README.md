@@ -5,5 +5,5 @@ Das ist die [Website](http://durchschnittsrechner.epizy.com/) für den Durchschn
 
 Hier das Repository dazu: https://github.com/GLifeDE/Durchschnittsrechner
 
-Die Seite läuft nur mit HTML und CSS.
+Die Seite läuft nur mit HTML und CSS und wird mit [Vercel](https://vercel.com/home) gehostet.
 Ebenfalls werden Icons von [Feather](https://feathericons.com/) verwendet.
