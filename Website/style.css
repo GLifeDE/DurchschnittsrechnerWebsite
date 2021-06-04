@@ -4,7 +4,7 @@ html {
     max-width: 90%;
     text-align: center;
     margin: 0 auto;
-    font-family: SF Pro Display, Helvetica, sans-serif;
+    font-family: Inter Medium, Segoe UI, Helvetica, sans-serif;
     scroll-behavior: smooth;
     height: 100%;
 }
@@ -30,7 +30,7 @@ nav {
 a {
     color: white;
     text-decoration: none;
-    font-family: SF Pro Display Black, Helvetica, sans-serif;
+    font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
     font-weight: bolder;
     padding-left: 20px;
     transition: ease-in-out all 100ms;
@@ -41,6 +41,8 @@ a:hover {
 h2 {
     text-align: left;
     color: white;
+    font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
+    font-weight: bolder;
 }
 p {
     text-align: left;
@@ -52,6 +54,8 @@ p {
 h3 {
     text-align: left;
     color: white;
+    font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
+    font-weight: bolder;
 }
 ul {
     padding-left: 0px;
@@ -59,7 +63,7 @@ ul {
 button {
     background-color: #FF3442;
     color: white;
-    font-family: SF Pro Display Black, Helvetica, sans-serif;
+    font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
     font-weight: bolder;
     font-size: larger;
     border-radius: 7px;
@@ -83,6 +87,8 @@ hr {
 h1 {
     margin-bottom: 0px;
     color: white;
+    font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
+    font-weight: bolder;
 }
 h6 {
     color: white;
