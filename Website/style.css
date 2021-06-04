@@ -6,6 +6,7 @@ html {
     margin: 0 auto;
     font-family: SF Pro Display, Helvetica, sans-serif;
     scroll-behavior: smooth;
+    height: 100%;
 }
 img {
     display: block;
@@ -82,4 +83,9 @@ hr {
 h1 {
     margin-bottom: 0px;
     color: white;
+}
+h6 {
+    color: white;
+    border: 0px;
+    margin-top: 2px;
 }
