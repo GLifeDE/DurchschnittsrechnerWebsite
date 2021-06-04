@@ -41,6 +41,8 @@ a:hover {
 h2 {
     text-align: left;
     color: white;
+    font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
+    font-weight: bolder;
 }
 p {
     text-align: left;
@@ -52,6 +54,8 @@ p {
 h3 {
     text-align: left;
     color: white;
+    font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
+    font-weight: bolder;
 }
 ul {
     padding-left: 0px;
@@ -83,6 +87,8 @@ hr {
 h1 {
     margin-bottom: 0px;
     color: white;
+    font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
+    font-weight: bolder;
 }
 h6 {
     color: white;
