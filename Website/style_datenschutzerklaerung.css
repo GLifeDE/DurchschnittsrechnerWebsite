@@ -28,32 +28,30 @@ nav {
     box-shadow: 0px 0px 5px 0.5px #FF3442;
 }
 a {
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
     font-weight: bolder;
-    padding-left: 20px;
     transition: ease-in-out all 100ms;
+    text-align: left;
 }
 a:hover {
     color: black;
 }
 h2 {
     text-align: left;
-    color: white;
+    color: #ff3442;
     font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
     font-weight: bolder;
 }
 p {
     text-align: left;
-    padding-left: 20px;
     padding-right: 20px;
-    border-left: solid rgb(255, 255, 255) 3px;
     color: white;
 }
 h3 {
     text-align: left;
-    color: white;
+    color: #a81e27;
     font-family: Inter Black, Segoe UI Black, Helvetica, sans-serif;
     font-weight: bolder;
 }
@@ -106,4 +104,11 @@ footer{
 footer p{
     text-align: center;
     border: 0px solid;
+}
+strong{
+    color: rgb(190, 190, 190);
+}
+li{
+    color: white;
+    text-align: left;
 }
