@@ -1,7 +1,7 @@
 # <img src="https://github.com/GLifeDE/Durchschnittsrechner/blob/master/Durchschnittsrechner/Rechner-Icon.png?raw=true" alt="Rechner-Icon" width="50" /> Durchschnittsrechner-Website
 https://durchschnittsrechner.vercel.app
 
-Das ist die [Website](http://durchschnittsrechner.epizy.com/) für den Durchschnittsrechner.
+Das ist die [Website](https://durchschnittsrechner.vercel.app) für den Durchschnittsrechner.
 
 Hier das Repository dazu: https://github.com/GLifeDE/Durchschnittsrechner
 
